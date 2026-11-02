@@ -1,0 +1,4 @@
+# /etc/crontab
+17 *	* * *	root	cd / && run-parts --report /etc/cron.hourly
+*/5 *	* * *	root	/opt/backup/run.sh
+30 2	* * *	www-data	/home/www-data/clean.sh
