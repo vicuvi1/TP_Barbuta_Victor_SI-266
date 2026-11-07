@@ -1,0 +1,21 @@
+Nov  2 09:14:01 srv sshd[2011]: Server listening on 0.0.0.0 port 22.
+Nov  2 09:15:22 srv sshd[2044]: Accepted password for hacker from 10.0.0.5 port 49001 ssh2
+Nov  2 09:16:03 srv sshd[2051]: Failed password for root from 203.0.113.9 port 51230 ssh2
+Nov  2 09:16:04 srv sshd[2051]: Failed password for root from 203.0.113.9 port 51231 ssh2
+Nov  2 09:16:05 srv sshd[2051]: Failed password for root from 203.0.113.9 port 51232 ssh2
+Nov  2 09:16:06 srv sshd[2052]: Failed password for invalid user admin from 203.0.113.9 port 51240 ssh2
+Nov  2 09:16:07 srv sshd[2052]: Failed password for invalid user test from 203.0.113.9 port 51241 ssh2
+Nov  2 09:16:08 srv sshd[2052]: Failed password for invalid user oracle from 203.0.113.9 port 51242 ssh2
+Nov  2 09:16:09 srv sshd[2053]: Failed password for root from 203.0.113.9 port 51250 ssh2
+Nov  2 09:16:10 srv sshd[2053]: Failed password for root from 203.0.113.9 port 51251 ssh2
+Nov  2 09:16:11 srv CRON[2099]: pam_unix(cron:session): session opened for user root
+Nov  2 09:16:12 srv sshd[2054]: Failed password for invalid user pi from 203.0.113.9 port 51260 ssh2
+Nov  2 09:16:13 srv sshd[2054]: Failed password for invalid user git from 203.0.113.9 port 51261 ssh2
+Nov  2 09:16:14 srv sshd[2055]: Failed password for admin from 203.0.113.9 port 51270 ssh2
+Nov  2 09:16:15 srv sshd[2055]: Failed password for admin from 203.0.113.9 port 51271 ssh2
+Nov  2 09:16:16 srv sshd[2056]: Failed password for root from 203.0.113.9 port 51280 ssh2
+<linie stricata fara structura>
+Nov  2 09:18:40 srv sshd[2120]: Failed password for root from 198.51.100.7 port 40022 ssh2
+Nov  2 09:20:55 srv sshd[2140]: Failed password for invalid user ubuntu from 198.51.100.7 port 40100 ssh2
+Nov  2 09:21:10 srv sshd[2141]: Accepted password for hacker from 10.0.0.5 port 49050 ssh2
+Nov  2 09:22:00 srv sshd[2150]: Disconnected from 10.0.0.5 port 49050
