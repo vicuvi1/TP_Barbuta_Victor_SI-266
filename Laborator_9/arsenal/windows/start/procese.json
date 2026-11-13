@@ -1,0 +1,44 @@
+[
+  {
+    "pid": 101,
+    "nume": "System",
+    "user": "SYSTEM",
+    "cale": "C:\\Windows\\System32\\ntoskrnl.exe"
+  },
+  {
+    "pid": 740,
+    "nume": "svchost.exe",
+    "user": "SYSTEM",
+    "cale": "C:\\Windows\\System32\\svchost.exe"
+  },
+  {
+    "pid": 2100,
+    "nume": "explorer.exe",
+    "user": "ana",
+    "cale": "C:\\Windows\\explorer.exe"
+  },
+  {
+    "pid": 2560,
+    "nume": "chrome.exe",
+    "user": "ana",
+    "cale": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+  },
+  {
+    "pid": 3120,
+    "nume": "update.exe",
+    "user": "ana",
+    "cale": "C:\\Users\\ana\\AppData\\Local\\Temp\\update.exe"
+  },
+  {
+    "pid": 3450,
+    "nume": "powershell.exe",
+    "user": "ana",
+    "cale": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+  },
+  {
+    "pid": 3890,
+    "nume": "svch0st.exe",
+    "user": "ana",
+    "cale": "C:\\Users\\ana\\AppData\\Roaming\\svch0st.exe"
+  }
+]

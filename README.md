@@ -13,5 +13,6 @@ Verificator: asistent universitar Cristian Gonceari.
 | 6 | GitHub, pas cu pas | [Laborator_6_GitHub](Laborator_6_GitHub) |
 | 7 | Colecții, enumerare spre root | [Laborator_7](Laborator_7) |
 | 8 | Funcții și excepții: detecția unui atac brute force din auth.log | [Laborator_8](Laborator_8) |
+| 9 | Obiecte și clase: inventar de procese și jurnalul de evenimente Windows | [Laborator_9](Laborator_9) |
 
 Atestările sunt în folderul [Examene](Examene).

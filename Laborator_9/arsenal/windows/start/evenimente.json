@@ -1,0 +1,58 @@
+[
+  {
+    "id": 4625,
+    "nivel": "warning",
+    "sursa": "Security",
+    "cont": "administrator",
+    "mesaj": "An account failed to log on"
+  },
+  {
+    "id": 4625,
+    "nivel": "warning",
+    "sursa": "Security",
+    "cont": "administrator",
+    "mesaj": "An account failed to log on"
+  },
+  {
+    "id": 7045,
+    "nivel": "warning",
+    "sursa": "Service Control Manager",
+    "cont": "SYSTEM",
+    "mesaj": "A service was installed in the system"
+  },
+  {
+    "id": 6008,
+    "nivel": "critical",
+    "sursa": "EventLog",
+    "cont": "SYSTEM",
+    "mesaj": "The previous system shutdown was unexpected"
+  },
+  {
+    "id": 1102,
+    "nivel": "critical",
+    "sursa": "Security",
+    "cont": "administrator",
+    "mesaj": "The audit log was cleared"
+  },
+  {
+    "id": 4624,
+    "nivel": "information",
+    "sursa": "Security",
+    "cont": "ana",
+    "mesaj": "An account was successfully logged on"
+  },
+  {
+    "id": 4634,
+    "nivel": "information",
+    "sursa": "Security",
+    "cont": "ana",
+    "mesaj": "An account was logged off"
+  },
+  {
+    "id": 7036,
+    "nivel": "information",
+    "sursa": "Service Control Manager",
+    "cont": "SYSTEM",
+    "mesaj": "A service entered the running state"
+  }
+]
